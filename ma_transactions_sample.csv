@@ -1,0 +1,8 @@
+deal_id,year,sector,target_country,acquirer_country,deal_value_usd_m,esg_score_target
+D001,2018,Technology,USA,UK,850,68
+D002,2019,Energy,Germany,France,1200,55
+D003,2020,Consumer,India,USA,400,62
+D004,2021,Technology,France,Netherlands,1500,74
+D005,2022,Energy,Brazil,Spain,980,58
+D006,2023,Consumer,USA,Canada,650,66
+D007,2024,Technology,Netherlands,USA,2100,78
