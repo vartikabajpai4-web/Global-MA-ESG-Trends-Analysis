@@ -1,5 +1,9 @@
 # Global M&A and ESG Trends Analysis
 
+
+![Deals per Year](outputs/deals_per_year.png)
+
+
 Open-data style analysis connecting **M&A transactions** with **ESG performance** across sectors (2018–2024).  
 This version includes a realistic synthetic dataset with rising deal activity and a positive ESG–value relationship.
 
@@ -21,3 +25,10 @@ This version includes a realistic synthetic dataset with rising deal activity an
 - `analysis/analysis.py` — reproducible script
 - `outputs/` — generated charts
 - `Report.md` — executive summary
+
+- ---
+
+### 🧭 Author & Tools
+**Created by [Vartika Bajpai](https://github.com/vartikabajpai4-web)**  
+Built using **Python**, **Pandas**, and **Matplotlib**  
+Data: Synthetic, reproducible (2018–2024)
