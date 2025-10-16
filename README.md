@@ -1,7 +1,7 @@
 # Global M&A and ESG Trends Analysis
 
 
-![Deals per Year](outputs/deals_per_year.png)
+![Deals per Year](deals_per_year.png)
 
 
 Open-data style analysis connecting **M&A transactions** with **ESG performance** across sectors (2018–2024).  
