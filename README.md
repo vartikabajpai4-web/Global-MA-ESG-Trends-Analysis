@@ -1,5 +1,5 @@
 # Global M&A and ESG Trends Analysis
-
+![Deals per Year](deals_per_year.png)
 Independent, open-data project exploring patterns between **M&A activity** and **ESG performance** (2018–2024).
 
 ## Quickstart
