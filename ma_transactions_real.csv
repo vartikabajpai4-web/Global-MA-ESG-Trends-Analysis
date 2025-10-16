@@ -1,0 +1,379 @@
+deal_id,year,region,sector,deal_value_eur_m,target_esg_score
+D00001,2018,Europe,Healthcare,320.9,66.0
+D00002,2018,Asia-Pacific,Consumer,171.6,56.7
+D00003,2018,Europe,Energy,282.4,45.5
+D00004,2018,North America,Consumer,258.7,59.5
+D00005,2018,North America,Energy,171.4,50.7
+D00006,2018,Europe,Industrials,204.9,52.8
+D00007,2018,Asia-Pacific,Consumer,177.9,59.6
+D00008,2018,Europe,Energy,103.0,47.0
+D00009,2018,North America,Industrials,239.2,52.7
+D00010,2018,Europe,Energy,42.5,47.9
+D00011,2018,Asia-Pacific,Energy,207.3,49.3
+D00012,2018,Asia-Pacific,Energy,117.7,50.3
+D00013,2018,Asia-Pacific,Consumer,121.7,60.2
+D00014,2018,Europe,Consumer,218.4,53.4
+D00015,2018,North America,Energy,225.3,52.9
+D00016,2018,Europe,Healthcare,423.4,68.1
+D00017,2018,North America,Technology,151.0,59.1
+D00018,2018,North America,Healthcare,168.7,63.3
+D00019,2018,Europe,Technology,531.7,67.0
+D00020,2018,North America,Consumer,140.8,58.5
+D00021,2018,Europe,Energy,201.2,51.3
+D00022,2018,Europe,Energy,207.5,46.6
+D00023,2018,Europe,Energy,99.7,46.6
+D00024,2018,North America,Consumer,302.6,55.2
+D00025,2018,Europe,Healthcare,291.5,63.5
+D00026,2018,Europe,Consumer,184.0,54.0
+D00027,2018,Asia-Pacific,Industrials,232.6,50.9
+D00028,2018,North America,Energy,267.6,51.4
+D00029,2018,Asia-Pacific,Technology,420.3,56.9
+D00030,2018,Europe,Healthcare,225.3,68.4
+D00031,2018,Asia-Pacific,Energy,262.2,48.1
+D00032,2018,Europe,Energy,34.7,50.0
+D00033,2018,North America,Healthcare,196.9,61.4
+D00034,2018,Europe,Industrials,199.0,49.8
+D00035,2018,Asia-Pacific,Energy,175.5,47.6
+D00036,2018,North America,Technology,392.8,57.7
+D00037,2018,North America,Technology,234.2,58.4
+D00038,2018,Europe,Industrials,82.8,54.9
+D00039,2019,North America,Energy,174.5,46.4
+D00040,2019,Asia-Pacific,Industrials,310.1,48.8
+D00041,2019,Asia-Pacific,Industrials,172.3,61.9
+D00042,2019,Asia-Pacific,Technology,293.1,61.0
+D00043,2019,Europe,Technology,170.3,63.6
+D00044,2019,Europe,Technology,350.4,62.3
+D00045,2019,Europe,Industrials,228.1,53.4
+D00046,2019,Europe,Consumer,416.8,67.8
+D00047,2019,Europe,Energy,323.6,46.3
+D00048,2019,Europe,Healthcare,306.4,69.1
+D00049,2019,Asia-Pacific,Consumer,193.8,59.6
+D00050,2019,North America,Energy,48.4,54.0
+D00051,2019,Europe,Energy,153.7,48.5
+D00052,2019,North America,Energy,165.7,52.2
+D00053,2019,Europe,Energy,327.6,53.5
+D00054,2019,North America,Consumer,261.9,64.6
+D00055,2019,North America,Healthcare,386.9,64.2
+D00056,2019,Asia-Pacific,Consumer,376.5,59.6
+D00057,2019,Europe,Consumer,183.0,54.7
+D00058,2019,North America,Consumer,180.2,61.3
+D00059,2019,North America,Healthcare,338.6,64.3
+D00060,2019,North America,Consumer,296.8,60.3
+D00061,2019,North America,Energy,330.4,47.8
+D00062,2019,North America,Consumer,239.4,61.9
+D00063,2019,Asia-Pacific,Healthcare,301.1,67.0
+D00064,2019,Europe,Energy,303.1,50.8
+D00065,2019,Asia-Pacific,Technology,259.3,61.8
+D00066,2019,North America,Technology,420.3,68.0
+D00067,2019,Asia-Pacific,Energy,44.4,49.0
+D00068,2019,Europe,Consumer,58.8,63.3
+D00069,2019,North America,Energy,212.1,50.9
+D00070,2019,Asia-Pacific,Energy,215.5,49.8
+D00071,2019,Asia-Pacific,Healthcare,307.3,64.3
+D00072,2019,Europe,Industrials,227.3,51.1
+D00073,2019,Asia-Pacific,Technology,318.0,65.6
+D00074,2019,North America,Industrials,78.9,49.3
+D00075,2019,Asia-Pacific,Healthcare,362.3,65.4
+D00076,2019,Europe,Consumer,272.3,57.1
+D00077,2019,Europe,Consumer,182.0,55.0
+D00078,2019,Asia-Pacific,Consumer,254.8,55.3
+D00079,2019,Asia-Pacific,Energy,261.2,44.1
+D00080,2019,Asia-Pacific,Energy,265.4,47.6
+D00081,2019,Europe,Consumer,248.2,63.4
+D00082,2020,North America,Energy,281.2,53.6
+D00083,2020,North America,Industrials,283.8,59.8
+D00084,2020,North America,Healthcare,263.3,68.5
+D00085,2020,Europe,Industrials,107.8,47.4
+D00086,2020,North America,Consumer,156.7,63.2
+D00087,2020,North America,Consumer,309.1,60.5
+D00088,2020,North America,Technology,589.0,63.8
+D00089,2020,Asia-Pacific,Consumer,194.6,61.6
+D00090,2020,Europe,Energy,280.0,47.7
+D00091,2020,Europe,Technology,213.0,65.2
+D00092,2020,Europe,Industrials,121.5,47.6
+D00093,2020,North America,Energy,84.1,45.8
+D00094,2020,Asia-Pacific,Consumer,235.3,58.2
+D00095,2020,North America,Industrials,296.4,53.3
+D00096,2020,Europe,Healthcare,388.4,70.2
+D00097,2020,Asia-Pacific,Industrials,370.7,53.0
+D00098,2020,Asia-Pacific,Industrials,290.0,54.4
+D00099,2020,Asia-Pacific,Energy,87.9,51.7
+D00100,2020,North America,Industrials,113.1,46.4
+D00101,2020,North America,Industrials,204.4,53.1
+D00102,2020,North America,Healthcare,378.8,69.6
+D00103,2020,Asia-Pacific,Consumer,206.3,66.0
+D00104,2020,Asia-Pacific,Technology,226.6,60.1
+D00105,2020,North America,Healthcare,356.3,65.2
+D00106,2020,Asia-Pacific,Healthcare,298.4,69.1
+D00107,2020,Europe,Consumer,280.2,57.2
+D00108,2020,North America,Industrials,195.4,52.8
+D00109,2020,Asia-Pacific,Healthcare,304.3,64.3
+D00110,2020,North America,Healthcare,425.2,68.2
+D00111,2020,Asia-Pacific,Industrials,90.8,48.6
+D00112,2020,Asia-Pacific,Industrials,70.3,54.3
+D00113,2020,Europe,Healthcare,269.7,65.6
+D00114,2020,Europe,Energy,267.7,45.2
+D00115,2020,Asia-Pacific,Healthcare,250.3,68.8
+D00116,2020,Europe,Energy,335.8,48.5
+D00117,2020,North America,Industrials,227.1,51.7
+D00118,2020,Asia-Pacific,Healthcare,199.8,64.4
+D00119,2020,Europe,Industrials,168.8,47.8
+D00120,2020,Europe,Industrials,285.5,55.3
+D00121,2020,Asia-Pacific,Consumer,228.0,60.4
+D00122,2020,Asia-Pacific,Technology,124.4,60.0
+D00123,2020,North America,Energy,380.7,49.8
+D00124,2020,Europe,Consumer,216.9,57.3
+D00125,2021,Asia-Pacific,Industrials,150.7,54.0
+D00126,2021,Europe,Energy,149.3,45.6
+D00127,2021,North America,Energy,211.3,51.2
+D00128,2021,Europe,Technology,366.0,72.7
+D00129,2021,North America,Healthcare,379.3,69.9
+D00130,2021,Europe,Consumer,322.0,65.4
+D00131,2021,North America,Healthcare,319.2,67.3
+D00132,2021,Europe,Energy,129.1,43.4
+D00133,2021,Europe,Healthcare,250.8,67.3
+D00134,2021,Asia-Pacific,Industrials,273.9,51.4
+D00135,2021,Europe,Technology,216.6,67.7
+D00136,2021,North America,Energy,226.1,45.7
+D00137,2021,Europe,Consumer,46.6,66.4
+D00138,2021,Europe,Energy,246.9,51.2
+D00139,2021,Asia-Pacific,Industrials,267.3,54.3
+D00140,2021,Europe,Technology,284.5,67.9
+D00141,2021,Europe,Consumer,169.2,66.6
+D00142,2021,Asia-Pacific,Energy,248.4,55.8
+D00143,2021,Europe,Energy,210.9,49.5
+D00144,2021,North America,Technology,395.6,62.8
+D00145,2021,Europe,Energy,303.0,52.3
+D00146,2021,North America,Healthcare,307.7,68.3
+D00147,2021,Asia-Pacific,Energy,260.0,54.5
+D00148,2021,Europe,Healthcare,264.3,64.7
+D00149,2021,Europe,Energy,362.8,50.2
+D00150,2021,Asia-Pacific,Consumer,210.2,63.1
+D00151,2021,Europe,Healthcare,254.5,64.2
+D00152,2021,Europe,Technology,421.1,68.6
+D00153,2021,North America,Healthcare,365.6,64.7
+D00154,2021,North America,Healthcare,199.4,67.6
+D00155,2021,Europe,Industrials,204.9,52.4
+D00156,2021,Asia-Pacific,Healthcare,266.7,66.8
+D00157,2021,Europe,Energy,77.5,54.7
+D00158,2021,Asia-Pacific,Healthcare,188.1,68.1
+D00159,2021,Asia-Pacific,Consumer,141.6,67.7
+D00160,2021,Asia-Pacific,Industrials,298.4,53.1
+D00161,2021,Asia-Pacific,Energy,368.1,50.5
+D00162,2021,Europe,Healthcare,422.8,77.5
+D00163,2021,Asia-Pacific,Consumer,301.6,61.5
+D00164,2021,Europe,Healthcare,342.4,69.0
+D00165,2021,Europe,Healthcare,248.7,63.7
+D00166,2021,Europe,Consumer,191.4,59.0
+D00167,2021,Europe,Technology,287.2,62.6
+D00168,2021,Europe,Industrials,200.5,54.1
+D00169,2021,Asia-Pacific,Healthcare,159.4,70.8
+D00170,2021,Europe,Consumer,132.1,66.7
+D00171,2021,North America,Healthcare,244.2,66.3
+D00172,2021,Asia-Pacific,Technology,168.0,63.6
+D00173,2021,North America,Industrials,182.3,54.4
+D00174,2021,Europe,Consumer,104.8,62.3
+D00175,2021,Europe,Healthcare,377.3,69.2
+D00176,2021,Asia-Pacific,Technology,306.0,69.9
+D00177,2021,Europe,Energy,224.0,47.8
+D00178,2021,North America,Energy,261.3,49.9
+D00179,2022,Europe,Energy,338.9,53.7
+D00180,2022,North America,Energy,247.1,48.9
+D00181,2022,Asia-Pacific,Technology,386.2,69.5
+D00182,2022,North America,Consumer,20.0,64.7
+D00183,2022,North America,Energy,247.2,53.8
+D00184,2022,North America,Industrials,390.6,54.1
+D00185,2022,Europe,Industrials,151.5,56.0
+D00186,2022,Asia-Pacific,Consumer,190.8,62.9
+D00187,2022,Europe,Consumer,213.8,63.4
+D00188,2022,Asia-Pacific,Consumer,227.6,67.0
+D00189,2022,Asia-Pacific,Healthcare,324.0,65.3
+D00190,2022,Europe,Consumer,225.2,59.5
+D00191,2022,Europe,Technology,492.4,71.2
+D00192,2022,North America,Industrials,270.9,57.9
+D00193,2022,North America,Technology,273.3,64.6
+D00194,2022,Europe,Industrials,218.5,57.6
+D00195,2022,Europe,Industrials,154.0,59.9
+D00196,2022,Asia-Pacific,Industrials,227.9,55.8
+D00197,2022,Asia-Pacific,Energy,183.3,53.3
+D00198,2022,Asia-Pacific,Healthcare,324.5,63.4
+D00199,2022,Asia-Pacific,Healthcare,245.7,70.5
+D00200,2022,Asia-Pacific,Healthcare,301.0,72.9
+D00201,2022,Europe,Energy,266.3,55.3
+D00202,2022,Europe,Industrials,272.8,54.0
+D00203,2022,Asia-Pacific,Technology,281.7,66.2
+D00204,2022,Europe,Healthcare,354.1,70.3
+D00205,2022,North America,Energy,187.9,56.8
+D00206,2022,Europe,Energy,250.3,49.2
+D00207,2022,Asia-Pacific,Healthcare,224.0,66.6
+D00208,2022,Europe,Industrials,487.0,59.6
+D00209,2022,Europe,Healthcare,339.0,69.4
+D00210,2022,North America,Energy,87.7,48.2
+D00211,2022,North America,Consumer,264.5,63.7
+D00212,2022,Asia-Pacific,Technology,492.7,66.6
+D00213,2022,Europe,Energy,312.9,55.8
+D00214,2022,North America,Healthcare,242.3,72.0
+D00215,2022,Europe,Energy,216.1,56.9
+D00216,2022,Europe,Energy,336.3,52.6
+D00217,2022,Europe,Energy,229.4,53.8
+D00218,2022,Europe,Technology,454.8,66.0
+D00219,2022,Asia-Pacific,Technology,332.7,64.1
+D00220,2022,North America,Consumer,250.0,67.6
+D00221,2022,Asia-Pacific,Consumer,60.7,68.9
+D00222,2022,Asia-Pacific,Healthcare,382.2,72.0
+D00223,2022,Asia-Pacific,Technology,378.3,67.4
+D00224,2022,North America,Technology,226.6,67.1
+D00225,2022,Europe,Consumer,140.2,60.1
+D00226,2022,North America,Technology,513.0,64.2
+D00227,2022,Europe,Consumer,58.6,60.3
+D00228,2022,Asia-Pacific,Energy,173.6,47.6
+D00229,2022,North America,Technology,396.4,62.8
+D00230,2022,Europe,Energy,219.2,48.3
+D00231,2022,Asia-Pacific,Industrials,336.4,60.2
+D00232,2022,Europe,Energy,215.5,58.3
+D00233,2022,Europe,Industrials,170.2,51.6
+D00234,2022,Asia-Pacific,Healthcare,321.3,67.9
+D00235,2022,Europe,Energy,176.0,55.1
+D00236,2022,Europe,Healthcare,79.3,65.8
+D00237,2022,Asia-Pacific,Technology,459.4,66.7
+D00238,2023,Europe,Consumer,310.9,65.9
+D00239,2023,Asia-Pacific,Industrials,144.5,54.9
+D00240,2023,North America,Industrials,243.5,54.1
+D00241,2023,Europe,Industrials,151.1,60.3
+D00242,2023,North America,Consumer,194.8,64.5
+D00243,2023,Europe,Healthcare,436.7,73.2
+D00244,2023,North America,Energy,357.6,50.7
+D00245,2023,Europe,Energy,233.8,55.6
+D00246,2023,Asia-Pacific,Healthcare,265.5,70.0
+D00247,2023,Asia-Pacific,Technology,475.1,74.6
+D00248,2023,North America,Industrials,199.1,56.6
+D00249,2023,Europe,Technology,153.9,73.6
+D00250,2023,Europe,Consumer,233.0,65.1
+D00251,2023,North America,Industrials,110.1,57.0
+D00252,2023,North America,Energy,74.8,55.1
+D00253,2023,North America,Industrials,110.2,56.7
+D00254,2023,North America,Energy,20.0,45.2
+D00255,2023,North America,Technology,393.6,66.5
+D00256,2023,Europe,Healthcare,248.5,75.8
+D00257,2023,Asia-Pacific,Consumer,131.6,62.0
+D00258,2023,Europe,Technology,335.9,72.9
+D00259,2023,Europe,Consumer,162.0,58.7
+D00260,2023,Asia-Pacific,Energy,397.9,58.2
+D00261,2023,North America,Industrials,225.8,54.1
+D00262,2023,Asia-Pacific,Energy,316.3,59.5
+D00263,2023,Asia-Pacific,Consumer,281.2,63.5
+D00264,2023,Asia-Pacific,Technology,273.2,71.4
+D00265,2023,North America,Healthcare,391.8,69.2
+D00266,2023,Europe,Healthcare,277.8,71.4
+D00267,2023,Asia-Pacific,Technology,319.3,65.5
+D00268,2023,Europe,Healthcare,363.6,71.4
+D00269,2023,Asia-Pacific,Energy,20.0,56.3
+D00270,2023,North America,Energy,346.2,52.9
+D00271,2023,North America,Healthcare,428.6,68.3
+D00272,2023,Europe,Industrials,307.1,62.1
+D00273,2023,Asia-Pacific,Industrials,193.2,60.0
+D00274,2023,Europe,Technology,358.4,72.1
+D00275,2023,Europe,Healthcare,514.7,69.0
+D00276,2023,North America,Technology,556.2,67.4
+D00277,2023,North America,Industrials,264.3,55.8
+D00278,2023,North America,Technology,419.4,67.3
+D00279,2023,Europe,Industrials,91.4,55.7
+D00280,2023,North America,Consumer,142.8,64.0
+D00281,2023,North America,Consumer,307.8,62.3
+D00282,2023,North America,Healthcare,494.4,71.2
+D00283,2023,North America,Energy,254.9,51.6
+D00284,2023,North America,Industrials,456.2,56.2
+D00285,2023,North America,Consumer,212.0,67.2
+D00286,2023,Asia-Pacific,Healthcare,129.1,70.4
+D00287,2023,Asia-Pacific,Consumer,224.1,64.6
+D00288,2023,Asia-Pacific,Energy,381.0,52.1
+D00289,2023,Europe,Energy,295.1,53.9
+D00290,2023,Asia-Pacific,Technology,394.8,67.6
+D00291,2023,Europe,Energy,185.4,50.8
+D00292,2023,Europe,Technology,361.1,66.7
+D00293,2023,North America,Energy,190.7,50.9
+D00294,2023,North America,Energy,156.8,54.1
+D00295,2023,Europe,Technology,299.9,70.2
+D00296,2023,Europe,Industrials,165.8,57.1
+D00297,2023,Asia-Pacific,Technology,61.1,66.2
+D00298,2023,Asia-Pacific,Consumer,242.1,67.5
+D00299,2023,North America,Consumer,224.5,66.0
+D00300,2023,Europe,Industrials,232.2,53.6
+D00301,2023,Asia-Pacific,Healthcare,364.9,69.5
+D00302,2023,North America,Industrials,119.5,55.8
+D00303,2023,Europe,Energy,151.4,47.9
+D00304,2024,Asia-Pacific,Technology,293.5,68.6
+D00305,2024,Europe,Industrials,187.2,56.2
+D00306,2024,Europe,Consumer,188.8,63.5
+D00307,2024,North America,Industrials,212.5,57.5
+D00308,2024,Asia-Pacific,Healthcare,216.1,67.9
+D00309,2024,Europe,Industrials,202.2,61.0
+D00310,2024,North America,Technology,70.5,65.6
+D00311,2024,North America,Consumer,105.4,61.2
+D00312,2024,Asia-Pacific,Technology,422.5,71.9
+D00313,2024,Asia-Pacific,Industrials,251.3,57.2
+D00314,2024,Europe,Technology,375.7,74.6
+D00315,2024,Asia-Pacific,Consumer,231.1,66.3
+D00316,2024,Asia-Pacific,Technology,579.4,72.1
+D00317,2024,Europe,Energy,294.9,55.6
+D00318,2024,Asia-Pacific,Energy,86.0,57.3
+D00319,2024,Asia-Pacific,Industrials,157.0,53.7
+D00320,2024,Asia-Pacific,Technology,191.8,73.8
+D00321,2024,North America,Technology,364.4,66.1
+D00322,2024,Europe,Industrials,214.5,57.6
+D00323,2024,Asia-Pacific,Industrials,296.8,55.9
+D00324,2024,North America,Energy,289.5,49.2
+D00325,2024,Asia-Pacific,Industrials,244.9,64.6
+D00326,2024,Asia-Pacific,Technology,348.8,68.4
+D00327,2024,Asia-Pacific,Consumer,154.0,65.1
+D00328,2024,Asia-Pacific,Energy,268.8,49.1
+D00329,2024,Europe,Industrials,191.3,52.9
+D00330,2024,Europe,Consumer,208.8,67.3
+D00331,2024,Asia-Pacific,Consumer,104.0,63.8
+D00332,2024,Europe,Energy,137.2,55.1
+D00333,2024,Europe,Consumer,106.2,62.0
+D00334,2024,North America,Industrials,256.5,63.1
+D00335,2024,Asia-Pacific,Technology,120.7,68.8
+D00336,2024,Asia-Pacific,Energy,219.2,54.3
+D00337,2024,Europe,Energy,217.0,57.0
+D00338,2024,Europe,Technology,241.2,70.8
+D00339,2024,North America,Technology,261.4,70.2
+D00340,2024,North America,Consumer,125.8,68.1
+D00341,2024,Europe,Healthcare,373.9,70.5
+D00342,2024,Asia-Pacific,Industrials,160.2,55.1
+D00343,2024,Europe,Healthcare,220.9,69.4
+D00344,2024,Europe,Energy,336.0,55.8
+D00345,2024,Europe,Industrials,120.1,53.9
+D00346,2024,North America,Healthcare,178.6,71.3
+D00347,2024,Asia-Pacific,Industrials,295.8,56.0
+D00348,2024,North America,Technology,166.8,71.4
+D00349,2024,Asia-Pacific,Industrials,195.7,59.8
+D00350,2024,North America,Energy,345.2,57.5
+D00351,2024,Europe,Consumer,214.7,60.4
+D00352,2024,Asia-Pacific,Consumer,194.0,64.4
+D00353,2024,Europe,Industrials,241.5,57.3
+D00354,2024,Asia-Pacific,Energy,258.4,48.1
+D00355,2024,Asia-Pacific,Consumer,92.7,59.5
+D00356,2024,Europe,Healthcare,383.4,70.3
+D00357,2024,North America,Energy,297.8,47.6
+D00358,2024,Asia-Pacific,Healthcare,364.6,73.7
+D00359,2024,Asia-Pacific,Industrials,252.3,59.6
+D00360,2024,North America,Technology,401.3,70.8
+D00361,2024,North America,Industrials,163.3,55.6
+D00362,2024,North America,Industrials,197.5,51.3
+D00363,2024,Europe,Industrials,264.5,55.5
+D00364,2024,Europe,Technology,327.3,68.4
+D00365,2024,North America,Consumer,227.9,67.4
+D00366,2024,Asia-Pacific,Healthcare,283.3,72.2
+D00367,2024,Europe,Healthcare,214.7,74.3
+D00368,2024,Asia-Pacific,Industrials,314.9,51.9
+D00369,2024,Europe,Healthcare,426.8,73.9
+D00370,2024,North America,Energy,96.7,54.7
+D00371,2024,Asia-Pacific,Energy,100.4,57.0
+D00372,2024,Europe,Technology,169.0,68.8
+D00373,2024,Asia-Pacific,Technology,412.8,68.8
+D00374,2024,Asia-Pacific,Energy,210.6,50.4
+D00375,2024,Asia-Pacific,Technology,249.4,68.2
+D00376,2024,North America,Technology,232.7,61.4
+D00377,2024,Asia-Pacific,Healthcare,408.3,68.4
+D00378,2024,North America,Healthcare,274.7,68.1
